@@ -294,6 +294,7 @@ body
 
   .project-info {
     padding: 16px;
+    background-color: lightgray;
   }
 
   .project-info a:hover{
